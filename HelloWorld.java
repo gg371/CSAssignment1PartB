@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Gracyn Green");
+		System.out.println("Gracyn Green and Andrea McGrane");
 
 	}
 
